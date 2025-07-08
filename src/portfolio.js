@@ -286,9 +286,9 @@ const degrees = {
       alt_name: "NYIT",
       duration: "Sep 2010 - May 2015",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡Completed a Bachelor of Science in Biology with a strong foundation in core subjects including Genetics, Molecular Biology, Microbiology, Ecology, Physiology, and Biochemistry.",
+        "⚡Developed robust analytical skills through interdisciplinary coursework in Statistics, Mathematics, and Chemistry—building a data-driven approach to solving complex scientific problems.",
+        "⚡Applied scientific thinking and problem-solving in collaborative environments, honing skills transferable to data science—such as hypothesis testing, data visualization, and analytical reporting.",
       ],
       website_link: "https://www.nyit.edu",
     },
