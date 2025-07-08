@@ -282,7 +282,7 @@ const degrees = {
     {
       title: "New York Institue of Technology",
       subtitle: "B.Sci. in Biology",
-      logo_path: "iiitk_logo.png",
+      logo_path: "NYIT_edit-01-1024x536.png",
       alt_name: "NYIT",
       duration: "Sep 2010 - May 2015",
       descriptions: [
