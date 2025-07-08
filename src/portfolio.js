@@ -428,7 +428,7 @@ const experience = {
           title: "Facilities and Operations - Volunteer",
           company: "BAPS Swaminarayan Sanstha",
           company_url: "https://about.google/",
-          logo_path: "google_logo.png",
+          logo_path: "BAPS.png",
           duration: "Jan 2010 - Present",
           location: "New York, NY",
           description:
