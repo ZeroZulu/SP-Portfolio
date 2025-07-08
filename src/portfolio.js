@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Shril's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Data Analyst & Scientist fueled by curiosity and impact—using data to solve real problems, spark better questions, and drive meaningful change.",
   og: {
     title: "Shril Patel Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Shril Patel",
   nickname: "Zerol0l",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Data Analyst & Scientist fueled by curiosity and impact—using data to solve real problems, spark better questions, and drive meaningful change.",
   resumeLink: "",
   portfolio_repository: "https://github.com/ZeroZulu/masterPortfolio",
   githubProfile: "https://github.com/ZeroZulu/masterPortfolio",
@@ -65,32 +65,96 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Analyst/Scientist & AI",
+      title: "Data Analyst/Science & AI",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Building robust data pipelines and automated workflows for large-scale data extraction, processing, and analysis",
+        "⚡ Scripting data processing tasks and automation using Bash and shell scripts for efficient pipeline orchestration",
+        "⚡ Designing and deploying time-series and machine learning algorithms for contextual and temporal data mapping",
+        "⚡ Visualizing pipelines and data flows using Plotly and Dash for better understanding and debugging",
       ],
       softwareSkills: [
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
+          style: { backgroundColor: "transparent", color: "#3776AB" },
+        },
+        {
+          skillName: "Pandas",
+          fontAwesomeClassname: "simple-icons:pandas",
+          style: { color: "#150458" },
+        },
+        {
+          skillName: "Scikit-learn",
+          fontAwesomeClassname: "simple-icons:scikitlearn",
+          style: { color: "#F7931E" },
+        },
+        {
+          skillName: "SQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: { color: "#00758F" },
+        },
+        {
+          skillName: "Bash",
+          fontAwesomeClassname: "simple-icons:gnubash",
+          style: { color: "#4EAA25" },
+        },
+        {
+          skillName: "OpenCV",
+          fontAwesomeClassname: "simple-icons:opencv",
+          style: { color: "#5C3EE8" },
+        },
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: { backgroundColor: "transparent" },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: { backgroundColor: "white", color: "#D00000" },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: { backgroundColor: "transparent" },
         },
         {
           skillName: "Deeplearning",
           imageSrc: "deeplearning_ai_logo.png",
+        },
+        {
+          skillName: "Conda",
+          fontAwesomeClassname: "simple-icons:anaconda",
+          style: { color: "#4B8BBE" },
+        },
+        {
+          skillName: "Numpy",
+          fontAwesomeClassname: "simple-icons:numpy",
+          style: { color: "#013243" },
+        },
+        // {
+        //   skillName: "Matplotlib",
+        //   fontAwesomeClassname: "simple-icons:matplotlib",
+        //   style: { color: "#F9A03F" },
+        // },
+        // {
+        //   skillName: "Seaborn",
+        //   fontAwesomeClassname: "simple-icons:seaborn",
+        //   style: { color: "#3E5A99" },
+        // },
+        {
+          skillName: "Plotly",
+          fontAwesomeClassname: "simple-icons:plotly",
+          style: { color: "#3F4B8E" },
+        },
+        {
+          skillName: "R",
+          fontAwesomeClassname: "simple-icons:r",
+          style: { color: "#276DC3" },
         },
       ],
     },
@@ -177,7 +241,7 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Tools & Platforms",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
