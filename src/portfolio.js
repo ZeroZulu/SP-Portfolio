@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Shril Patel Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://zerozulu.github.io/",
   },
 };
 
