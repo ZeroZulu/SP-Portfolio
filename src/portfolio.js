@@ -162,9 +162,13 @@ const skills = {
       title: "Data Visualization",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Designing clear, impactful visual narratives using tools like Tableau, Power BI, Plotly, and Dash",
+        "⚡ Creating interactive dashboards and reports to surface insights and drive data-informed decisions",
+        "⚡ Translating complex datasets into intuitive visuals that resonate with technical and non-technical audiences",
+        "⚡ Building custom visual components using D3.js and JavaScript libraries for tailored data storytelling",
+        "⚡ Streamlining visualization workflows with Python (Pandas, Seaborn, Matplotlib) and SQL-based pipelines",
+        "⚡ Collaborating with cross-functional teams to embed visual insights into products, presentations, and strategies",
+        "⚡ Applying design principles and user experience thinking to enhance clarity, accessibility, and impact",
       ],
       softwareSkills: [
         {
@@ -245,9 +249,9 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Containerized full-stack applications using Docker for reproducible environments",
+        "⚡ Hands-on with PostgreSQL and MongoDB for relational and NoSQL data management",
         "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
@@ -297,13 +301,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:docker",
           style: {
             color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
           },
         },
       ],
@@ -461,7 +458,6 @@ const experience = {
             "Zer0Labz is more than a portfolio — it’s my personal lab for experimentation, learning, and building in public. It’s where I document projects, share ideas, and explore the intersection of code, data, and creativity. Whether it’s a scrappy prototype, a deep dive into a problem, or a reflection on what I’ve learned, Zer0Labz is where I grow and connect with others who love to build and break things too.",
           color: "#0879bf",
         },
-        ,
       ],
     },
     {
@@ -477,18 +473,6 @@ const experience = {
           description:
             "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
           color: "#4285F4",
-        },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url:
-            "https://www.linkedin.com/company/bapsswaminarayansanstha/posts/?feedView=all",
-          logo_path: "microsoft_logo.png",
-          duration: "Jan 2010 - Present",
-          location: "New York, NY",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
         },
       ],
     },
