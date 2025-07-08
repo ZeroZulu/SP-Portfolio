@@ -282,7 +282,7 @@ const degrees = {
     {
       title: "New York Institue of Technology",
       subtitle: "B.Sci. in Biology",
-      logo_path: "NYIT_edit-01-1024x536.png",
+      logo_path: "NYIT_logo.png",
       alt_name: "NYIT",
       duration: "Sep 2010 - May 2015",
       descriptions: [
@@ -300,7 +300,7 @@ const certifications = {
     {
       title: "Python for Everbody",
       subtitle: "Univeristy of Michigan",
-      logo_path: "stanford_logo.png",
+      logo_path: "U-M_Logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/B46CUH9MQUUD",
       alt_name: "University of Michigan",
