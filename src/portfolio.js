@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink: "",
   portfolio_repository: "https://github.com/ZeroZulu/masterPortfolio",
-  githubProfile: "https://github.com/ZeroZulu",
+  githubProfile: "https://github.com/ZeroZulu/masterPortfolio",
 };
 
 const socialMediaLinks = [
@@ -517,8 +517,8 @@ const contactPageData = {
     streetAddress: "",
   },
   phoneSection: {
-    title: "hello",
-    subtitle: "jjj",
+    title: "",
+    subtitle: "",
   },
 };
 
