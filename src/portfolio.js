@@ -366,9 +366,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work & Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "After 8 years driving operational success through data insights, I transitioned to data analytics to solve complex business challenges with advanced tools. With IBM certifications in Data Analysis, Data Science, and Data Engineering,",
   header_image_path: "experience.svg",
   sections: [
     {
