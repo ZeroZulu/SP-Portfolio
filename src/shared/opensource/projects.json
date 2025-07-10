@@ -125,16 +125,40 @@
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
+      "id": "IBM Data Science Capstone",
+      "name": "IBM Data Science Capstone",
+      "createdAt": "2025-02-06T17:56:07Z",
       "url": "https://github.com/ZeroZulu/IBM-Data-Science-Capstone",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "description": "Goal was to analyze historical launch data and build machine learning models that can help estimate the probability of a successful landing.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "devicon:pandas-wordmark",
+          "iconifyClass": "devicon-pandas-wordmark"
+        },
+        {
+          "name": "numpy",
+          "iconifyClass": "logos-numpy"
+        },
+        {
+          "name": "logos:seaborn-icon",
+          "iconifyClass": "logos-seaborn-icon"
+        },
+        {
+          "name": "devicon:matplotlib",
+          "iconifyClass": "devicon-matplotlib"
+        },
+        {
+          "name": "carbon:machine-learning-model",
+          "iconifyClass": "carbon-machine-learning-model"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
