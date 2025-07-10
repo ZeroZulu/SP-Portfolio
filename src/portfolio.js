@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A Data Analyst & Scientist fueled by curiosity and impact—using data to solve real problems, spark better questions, and drive meaningful change.",
   resumeLink: "",
-  portfolio_repository: "https://github.com/ZeroZulu/masterPortfolio",
+  portfolio_repository: "https://github.com/ZeroZulu/SP-Portfolio",
   githubProfile: "https://github.com/ZeroZulu",
 };
 
