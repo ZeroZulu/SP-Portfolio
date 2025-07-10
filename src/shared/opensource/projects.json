@@ -43,8 +43,20 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "PyTorch",
+          "iconifyClass": "logos-pytorch"
+        },
+        {
+          "name": "numpy",
+          "iconifyClass": "logos-numpy"
+        },
+        {
+          "name": "logos:seaborn-icon",
+          "iconifyClass": "logos-seaborn-icon"
+        },
+        {
+          "name": "devicon:matplotlib",
+          "iconifyClass": "devicon-matplotlib"
         },
         {
           "name": "Jupyter Notebook",
@@ -53,54 +65,62 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
+      "id": "IBM Data Analyst Capstone",
+      "name": "IBM Data Analyst Capstone",
+      "createdAt": "2025-02-06T16:26:54Z",
       "url": "https://github.com/ZeroZulu/IBM-Data-Analyst-Capstone",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "description": "This repository contains the final capstone project for the IBM Data Analyst Professional Certificate, focusing on uncovering job market trends in data-related roles through exploratory data analysis and visualization techniques.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "devicon:pandas-wordmark",
+          "iconifyClass": "devicon-pandas-wordmark"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "numpy",
+          "iconifyClass": "logos-numpy"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "logos:seaborn-icon",
+          "iconifyClass": "logos-seaborn-icon"
+        },
+        {
+          "name": "devicon:matplotlib",
+          "iconifyClass": "devicon-matplotlib"
+        },
+        {
+          "name": "carbon:machine-learning-model",
+          "iconifyClass": "carbon-machine-learning-model"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
+      "id": "IBM Data Science with R Capstone",
+      "name": "IBM Data Science with R Capstone",
+      "createdAt": "2025-03-11T14:50:20Z",
       "url": "https://github.com/ZeroZulu/IBM-Data-Science-with-R-Capstones",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "description": "IBM Data Science with R Specialization, focused on predicting hourly demand for bike rentals based on historical usage patterns and external variables.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "carbon:machine-learning-model",
+          "iconifyClass": "carbon-machine-learning-model"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "oui:vis-query-sql",
+          "iconifyClass": "oui-vis-query-sql"
         }
       ]
     },
