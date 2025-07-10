@@ -45,12 +45,12 @@ class Contact extends Component {
                 </p>
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
-                  <Button
+                  {/*  <Button
                     text="See My Resume"
                     newTab={true}
                     href={greeting.resumeLink}
                     theme={theme}
-                  />
+                  /> */}
                 </div>
               </div>
             </div>
