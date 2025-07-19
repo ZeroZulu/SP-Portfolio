@@ -390,7 +390,7 @@ const certifications = {
       subtitle: "deeplearning Ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science#courses",
+        "https://www.coursera.org/account/accomplishments/specialization/T6XZX8O98YXL",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
