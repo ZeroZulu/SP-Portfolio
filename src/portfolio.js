@@ -49,6 +49,12 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
+    name: "Dev",
+    link: "https://dev.to/zerozulu",
+    fontAwesomeIcon: "fa-dev", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
+    backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
+  },
+  {
     name: "X-Twitter",
     link: "https://x.com/Zer0Labz",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
@@ -531,7 +537,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "Building Better by Breaking First. Sharing whatever I have learned through my blogs.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://zer0sandbox-blog.vercel.app",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
